@@ -39,14 +39,6 @@ Portal de estudos do curso de Análise e Desenvolvimento de Sistemas, com navega
 - Totalmente responsivo e pronto para **GitHub Pages**
 - Fácil de expandir para novos semestres e disciplinas
 
-**📂 Estrutura do projeto:**
-
-📦 ads-study-hub
-┣ 📂 pages
-┃ ┣ 📂 semestres (páginas de cada semestre)
-┃ ┗ 📂 ads 1° semestre (conteúdo organizado por matéria)
-┗ 📜 index.html (escolha do semestre)
-
 
 👉 **[Acesse o repositório](https://github.com/seu-usuario/ads-study-hub)** para ver o código.
 ---
