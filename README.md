@@ -40,7 +40,7 @@ Portal de estudos do curso de Análise e Desenvolvimento de Sistemas, com navega
 - Fácil de expandir para novos semestres e disciplinas
 
 
-👉 **[Acesse o repositório](https://github.com/seu-usuario/ads-study-hub)** para ver o código.
+👉 **[Acesse o repositório](https://denermanuel.github.io/ads-study-hub/)** para ver o código.
 ---
 
 ## 📫 Vamos conversar?
