@@ -3,7 +3,6 @@
 Sou um desenvolvedor em constante evolução, com uma base técnica sólida e foco em criar soluções eficientes para a web.
 
 ## 🎓 Formação
-<!--**Graduando em Análise e Desenvolvimento de Sistemas**: Na **Faculdade Donaduzzi (Toledo/PR)**, onde sigo aprofundando meus conhecimentos em engenharia de software.-->
 - **Técnico em Informática**: Formado pelo **IFPR - Campus Goioerê** (2022-2025). 
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -23,9 +22,36 @@ Sou um desenvolvedor em constante evolução, com uma base técnica sólida e fo
 ## 🔬 Javascript Playground
 Este repositório é o meu laboratório pessoal. Ele reúne os **testes, desafios de lógica e mini-projetos** que desenvolvi ao longo dos meus 4 anos de formação no **IFPR**. É o registro prático da minha evolução e experimentação com JavaScript.
 
+---
+
+## 🧭 Projetos em Destaque
+
+### 📚 ADS Study Hub
+[![GitHub Repo](https://img.shields.io/badge/ADS_Study_Hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/ads-study-hub)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/seu-usuario/ads-study-hub)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/seu-usuario/ads-study-hub)
+
+Portal de estudos do curso de Análise e Desenvolvimento de Sistemas, com navegação hierárquica e design minimalista.
+
+**🎯 Destaques:**
+- Estrutura de três níveis: **Semestre → Matéria → Conteúdo**
+- Interface limpa com paleta de cores personalizada (`--bg: #F7F9FC`, `--accent: #4F46E5`)
+- Totalmente responsivo e pronto para **GitHub Pages**
+- Fácil de expandir para novos semestres e disciplinas
+
+**📂 Estrutura do projeto:**
+
+📦 ads-study-hub
+┣ 📂 pages
+┃ ┣ 📂 semestres (páginas de cada semestre)
+┃ ┗ 📂 ads 1° semestre (conteúdo organizado por matéria)
+┗ 📜 index.html (escolha do semestre)
+
+
+👉 **[Acesse o repositório](https://github.com/seu-usuario/ads-study-hub)** para ver o código.
+---
+
 ## 📫 Vamos conversar?
 Você pode entrar em contato comigo através dos meus e-mails:
 - 📧 **denere98@gmail.com**
-- 📧 **denere98@outlook.com**
-
----
+- 📧 **emanueldener5@gmail.com**
